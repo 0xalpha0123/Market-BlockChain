@@ -92,9 +92,3 @@ Metamask acts as web3 injector to our page.
 
 Now ready to the serve the app
 
-#
-
-For help: contact
-
-- Sudhan Manoharan
-- sudhanmanoharan@gmail.com
